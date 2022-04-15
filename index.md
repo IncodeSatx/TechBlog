@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## TechBlog
 
-You can use the [editor on GitHub](https://github.com/IncodeSatx/TechBlog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Lets start delivery tech content. [editor on GitHub](https://github.com/IncodeSatx/TechBlog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+###From design inspirations to creating its final product with maintaining all ux principles and ui standards. 
+
+##Incodesatx also provides development service related to Frontend Technologies.
 
 ### Markdown
 
